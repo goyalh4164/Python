@@ -30,3 +30,19 @@ print(round(3.6))
 #abs
 print(abs(7-10))
 print(abs(-20))
+
+#bin it returns the binary equivalent of the number
+print(bin(7))
+# convert binary to  decimal ... the second argument is a base of the current number
+print(int('0b101',2)) 
+
+# operator precedence
+print(20-3*4)
+
+# ()
+# **
+# * /
+# + -
+
+# complex Number datatype also exist in pyhton
+
