@@ -45,4 +45,7 @@ print(20-3*4)
 # + -
 
 # complex Number datatype also exist in pyhton
+# simplest way to assign value to variable in one go
+a,b,c=1,2,3
+print(a+b+c)
 
